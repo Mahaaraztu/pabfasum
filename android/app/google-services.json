@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "522552734111",
+    "firebase_url": "https://fasum-app-f97e6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fasum-app-f97e6",
+    "storage_bucket": "fasum-app-f97e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522552734111:android:7e9cb1abc3390d2b4a8daa",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHMPi81ba4_690U9qpYW2TDWUo0QgXKH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522552734111:android:596f71f0ffb57ad54a8daa",
+        "android_client_info": {
+          "package_name": "com.example.fasum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHMPi81ba4_690U9qpYW2TDWUo0QgXKH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522552734111:android:b473cebda4d5fd064a8daa",
+        "android_client_info": {
+          "package_name": "com.example.pabfasum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHMPi81ba4_690U9qpYW2TDWUo0QgXKH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
